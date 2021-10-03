@@ -6,10 +6,15 @@ While practicing with Pandas in Python, I did basic basic analysis on the data I
 Experiences made-used while performing this analysis
 
 Creating New Columns
+
 Creating New Dataframe
+
 Filtering (Single Column)
+
 Filtering (Multiple Columns)
+
 Filtering With And
+
 Filtering With Or
 
 - Bar Graphs
